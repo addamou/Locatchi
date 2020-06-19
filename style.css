@@ -1,5 +1,6 @@
  body{
-   background: rgb(81, 186, 247);
+   background-image: url(img/Codeloccol.jpg);
+   background-size: cover;
    display: flex;
    justify-content: center;
    align-items: center;
