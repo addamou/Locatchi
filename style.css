@@ -69,13 +69,13 @@
  }
 
  .clock .hand.minute{
-   width: 6px;
+   width: 7px;
    height: 40%;
    background-color: black;
  }
 
  .clock .hand.hour{
-   width: 9px;
-   height: 35%;
+   width: 10px;
+   height: 30%;
    background-color: rgb(17, 19, 41);
  }
